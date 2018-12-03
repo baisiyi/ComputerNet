@@ -42,6 +42,7 @@ void PrintRoute(int chart[][100], int length)
 	}
 	int i = 0;
 	while (i < length) {
+		if (i == v) { ++i; continue;}
 		cout << "目的路由器  " << "下一跳 " << endl;
 		cout << i + 1 << "            " << list[i] + 1 << "  " << endl;
 		++i;
