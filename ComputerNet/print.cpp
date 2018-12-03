@@ -1,6 +1,7 @@
 #include "print.h"
 void PrintRoute(int chart[][100], int length)
 {
+	cout << "caoqingcheng" << endl;
 	int list[10010] = { 0 };
 	int s[10010], DIST[10010];
 	int u, v = 1, num, w, k, min;
