@@ -5,7 +5,7 @@
 #include"print.h"
 #include"read.h"
 #define N 100
-
+using namespace std;
 int main() {
 	int length = 9, chart[N][N];//length为数组长度，chart为网络图转化的二维数组
 	int a;
