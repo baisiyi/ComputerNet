@@ -14,4 +14,41 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="addE.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="addV.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="del.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="print.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="read.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="addE.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="addV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="del.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="print.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="read.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

@@ -115,6 +115,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="addE.h" />
+    <ClInclude Include="addV.h" />
+    <ClInclude Include="del.h" />
+    <ClInclude Include="print.h" />
+    <ClInclude Include="read.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="addE.cpp" />
+    <ClCompile Include="addV.cpp" />
+    <ClCompile Include="del.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="print.cpp" />
+    <ClCompile Include="read.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
