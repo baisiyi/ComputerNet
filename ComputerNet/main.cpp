@@ -66,6 +66,5 @@ int main() {
 	}
 	cout << "¸ĞĞ»Ê¹ÓÃ1" << endl;
 	cout << endl;
-	cout << endl;
 	return 0;
 }
