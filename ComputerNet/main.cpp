@@ -66,5 +66,6 @@ int main() {
 	}
 	cout << "¸ĞĞ»Ê¹ÓÃ1" << endl;
 	cout << endl;
+	cout << "wangshichao";
 	return 0;
 }
